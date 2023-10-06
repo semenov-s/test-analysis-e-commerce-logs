@@ -40,7 +40,3 @@ Temporary Items
 .*  # ignore ipynb checkpoints
 **/*.ipynb_checkpoints/*
 .ipynb_checkpoints
-
-.*  # ignore all hidden files and folders
-!/.gitignore  # explicitly do not ignore .gitignore
-.ipynb_checkpoints/E_commerce_AB_testing_final_pj-checkpoint.ipynb
