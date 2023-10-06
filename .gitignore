@@ -39,3 +39,4 @@ Temporary Items
 
 .*  # ignore ipynb checkpoints
 **/*.ipynb_checkpoints/
+.ipynb_checkpoints
